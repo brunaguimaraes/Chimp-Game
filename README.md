@@ -1,6 +1,8 @@
 # Chimp-Game
 
 IMPORTANT:
+Press p to pause
+Press u to unpause
 Make sure you click the add animal button before clicking play to creat your animal. You can creat one animal at time.
 After creating your first animal the game will start, you can then press the red x in the top left corner of your screen to go back to the menu. Make the changes you want to your new animal then click the Add animal button to add it to your game. (The first animal you created won't be lost and you will be able to play with several animals). You may repeat this step as many times as you want.
 
